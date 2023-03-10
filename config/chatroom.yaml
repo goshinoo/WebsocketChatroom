@@ -1,0 +1,9 @@
+sensitive:
+  - 坏蛋
+  - 坏人
+  - 发票
+  - 傻子
+  - 傻大个
+  - 傻人
+token-secret: test
+offline-num: 100
